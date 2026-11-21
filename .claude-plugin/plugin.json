@@ -1,11 +1,19 @@
 {
   "name": "amia-skills",
+  "displayName": "Amia Skills",
   "version": "1.0.0",
   "description": "Standalone agent-ops skills from 17,468 AI agent commits: verification gates, Claude Code + Codex cross-review, safe overnight permissions, and morning summaries.",
   "author": {
     "name": "Amia",
     "url": "https://amia.to"
   },
+  "homepage": "https://amia.to/",
+  "repository": "https://github.com/amiahq/amia-skills",
+  "documentationUrl": "https://amia.to/articles/",
+  "privacyPolicyUrl": "https://amia.to/privacy",
+  "termsOfServiceUrl": "https://amia.to/terms/",
+  "supportUrl": "https://amia.to/help/",
+  "keywords": ["verification", "claude-code", "codex", "code-review", "permissions", "sandbox", "multi-agent", "amia"],
   "license": "MIT",
   "skills": [
     "./skills/verify-agent-work",
