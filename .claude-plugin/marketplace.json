@@ -1,0 +1,17 @@
+{
+  "name": "amia-skills",
+  "owner": {
+    "name": "Amia",
+    "url": "https://amia.to"
+  },
+  "metadata": {
+    "description": "Standalone multi-agent verification, cross-review and overnight safety skills by Amia (skills-only, no lifecycle hooks)."
+  },
+  "plugins": [
+    {
+      "name": "amia-skills",
+      "source": ".",
+      "description": "Four standalone skills for verifying AI agent work, pairing Claude Code with Codex, configuring safe overnight permissions, and producing morning status briefs."
+    }
+  ]
+}
